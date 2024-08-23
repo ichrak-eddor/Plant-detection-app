@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1043214682406",
+    "firebase_url": "https://plant-diseases-3c02e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plant-diseases-3c02e",
+    "storage_bucket": "plant-diseases-3c02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043214682406:android:2edbc3ae4594b8cc6859e7",
+        "android_client_info": {
+          "package_name": "com.example.smartplandetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__GbK_DydGXjxvvyajJNK4gtJzHm8ebY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
